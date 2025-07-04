@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# IDE / OS-specific
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Compiled TS files (optional if using dist/)
+*.js
+*.d.ts
